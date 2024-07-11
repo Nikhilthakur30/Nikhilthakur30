@@ -1,4 +1,4 @@
-![logo](https://github.com/Nikhilthakur30/Nikhilthakur30/blob/main/Poster_AI__Data_Science_JPG.jpg)
+![logo](https://github.com/Nikhilthakur30/Nikhilthakur30/blob/main/What-is-Data-Science.jpg)
 <h1 align="center">Hi 👋, I'm NIKHIL THAKUR</h1>
 <h3 align="center">Data Science Enthusiast</h3>
 
